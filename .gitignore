@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.tenderwincrawlenv/
+*.env
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore SQLite database
+*.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Logs and misc
+*.log
