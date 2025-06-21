@@ -10,6 +10,14 @@ Useful for:
 
 ---
 
+
+# 🚀 DEMO VIDEO -
+
+Click the link below to watch the full demo video showcasing the project:
+
+🔗 [Demo Video ](https://drive.google.com/file/d/1ejPvI2wCFbNAgwAb_ZMUHpNRflpVLrbr/view?usp=sharing)
+
+
 ## 🔍 Features
 
 - **Auto-locates** the latest “Monthly Megathread” post.
